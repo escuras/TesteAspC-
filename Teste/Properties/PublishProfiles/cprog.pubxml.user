@@ -1,0 +1,154 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\teste</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="ApplicationInsights.config">
+      <publishTime>02/13/2017 21:28:30</publishTime>
+    </File>
+    <File Include="bin/ApplicationInsights.config">
+      <publishTime>02/13/2017 21:28:30</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.Agent.Intercept.dll">
+      <publishTime>02/13/2017 21:28:24</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.DependencyCollector.dll">
+      <publishTime>02/13/2017 21:28:25</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.PerfCounterCollector.dll">
+      <publishTime>02/13/2017 21:28:26</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.ServerTelemetryChannel.dll">
+      <publishTime>02/13/2017 21:28:27</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.Web.dll">
+      <publishTime>02/13/2017 21:28:29</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.WindowsServer.dll">
+      <publishTime>02/13/2017 21:28:28</publishTime>
+    </File>
+    <File Include="bin/Microsoft.ApplicationInsights.dll">
+      <publishTime>02/13/2017 21:28:22</publishTime>
+    </File>
+    <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>02/13/2017 21:28:19</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe">
+      <publishTime>02/13/2017 21:28:18</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>02/13/2017 21:28:18</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>02/13/2017 21:28:18</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
+      <publishTime>02/13/2017 21:28:18</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>02/13/2017 21:28:19</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
+      <publishTime>02/13/2017 21:28:19</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
+      <publishTime>02/13/2017 21:28:19</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Collections.Immutable.dll">
+      <publishTime>02/13/2017 21:28:19</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Reflection.Metadata.dll">
+      <publishTime>02/13/2017 21:28:19</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe">
+      <publishTime>02/13/2017 21:28:19</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe">
+      <publishTime>02/13/2017 21:28:19</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe.config">
+      <publishTime>02/13/2017 21:28:19</publishTime>
+    </File>
+    <File Include="bin/Teste.dll">
+      <publishTime>02/15/2017 00:56:15</publishTime>
+    </File>
+    <File Include="dados.aspx">
+      <publishTime>02/14/2017 22:34:20</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>02/13/2017 21:28:18</publishTime>
+    </File>
+    <File Include="index.aspx">
+      <publishTime>02/14/2017 23:33:48</publishTime>
+    </File>
+    <File Include="outros.aspx">
+      <publishTime>02/14/2017 22:30:32</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>02/14/2017 17:37:31</publishTime>
+    </File>
+    <File Include="Recurso/avatar.png">
+      <publishTime>02/14/2017 22:35:50</publishTime>
+    </File>
+    <File Include="Recurso/palete.png">
+      <publishTime>02/14/2017 15:40:34</publishTime>
+    </File>
+    <File Include="Recurso/sem.jpg">
+      <publishTime>02/14/2017 15:41:20</publishTime>
+    </File>
+    <File Include="scripts/ai.0.15.0-build58334.js">
+      <publishTime>02/13/2017 21:28:30</publishTime>
+    </File>
+    <File Include="scripts/ai.0.15.0-build58334.min.js">
+      <publishTime>02/13/2017 21:28:30</publishTime>
+    </File>
+    <File Include="scripts/bootstrap.js">
+      <publishTime>02/13/2017 21:16:59</publishTime>
+    </File>
+    <File Include="scripts/bootstrap.min.js">
+      <publishTime>02/13/2017 21:16:59</publishTime>
+    </File>
+    <File Include="scripts/jquery-1.10.2.js">
+      <publishTime>02/13/2017 21:16:55</publishTime>
+    </File>
+    <File Include="scripts/jquery-1.10.2.min.js">
+      <publishTime>02/13/2017 21:16:55</publishTime>
+    </File>
+    <File Include="scripts/jquery-1.10.2.min.map">
+      <publishTime>02/13/2017 21:16:55</publishTime>
+    </File>
+    <File Include="scripts/login.js">
+      <publishTime>02/14/2017 14:02:10</publishTime>
+    </File>
+    <File Include="scripts/modernizr-2.6.2.js">
+      <publishTime>02/13/2017 21:16:58</publishTime>
+    </File>
+    <File Include="scripts/respond.js">
+      <publishTime>02/13/2017 21:16:57</publishTime>
+    </File>
+    <File Include="scripts/respond.min.js">
+      <publishTime>02/13/2017 21:16:57</publishTime>
+    </File>
+    <File Include="visual/bootstrap.css">
+      <publishTime>02/10/2017 17:36:28</publishTime>
+    </File>
+    <File Include="visual/bootstrap.min.css">
+      <publishTime>02/10/2017 17:36:28</publishTime>
+    </File>
+    <File Include="visual/dados.css">
+      <publishTime>02/14/2017 14:12:02</publishTime>
+    </File>
+    <File Include="visual/index.css">
+      <publishTime>02/14/2017 13:00:44</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>02/14/2017 23:20:35</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
